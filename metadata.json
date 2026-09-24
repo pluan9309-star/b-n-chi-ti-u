@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Thu Chi & Tiết Kiệm",
+  "description": "Ứng dụng quản lý tài chính và chi tiêu cá nhân trực quan với biểu đồ phân tích, thiết lập ngân sách và theo dõi mục tiêu tiết kiệm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
